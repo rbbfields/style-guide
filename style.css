@@ -1,0 +1,89 @@
+body {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin: 50px auto;
+}
+
+div {
+  border: 1px solid gray;
+  background-color: white;
+  color: black;
+  margin: 20px auto;
+  border-radius: 25px;
+  padding: 20px;
+  max-width: 1000px;
+}
+
+.swatch {
+  display: inline-block;
+  width: 200px;
+  height: 100px;
+  text-align: center;
+  vertical-align: center;
+  padding: 50px 0 0 0;
+  border-radius: 15%;
+  margin: 10px 0 10px 20px;
+  font-size: 20px;
+  font-weight: 600;
+}
+
+#color1 {
+  background-color: #6495ed;
+  color: white;
+}
+
+#color2 {
+  background-color: #000080;
+  color: white;
+}
+
+#color3 {
+  background-color: #fff8dc;
+  color: black;
+}
+
+#color4 {
+  background-color: #8B4513;
+  color: white;
+}
+
+#font1 {
+  font-family: 'Source Code Pro', monospace;
+}
+
+#font2 {
+  font-family: Verdana;
+}
+
+#font3 {
+  font-family: 'Scheherazade New', serif;
+}
+
+.fonts {
+  text-align: left;
+  margin: 0 0 0 75px;
+}
+
+.styles {
+  text-align: left;
+  margin: 0 0 0 75px;
+}
+
+#style1 {
+  font-weight: 700;
+  font-size: 26px;
+  font-family: Verdana;
+}
+
+#style2 {
+  font-weight: 500;
+  font-size: 18px;
+  font-family: 'Source Code Pro';
+}
+
+#style3 {
+  font-weight: 400;
+  font-size: 14px;
+  font-family: 'Scheherazade New';
+}
